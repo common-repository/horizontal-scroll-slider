@@ -1,0 +1,1 @@
+<div class="hss_item_slider">	<ul class="hss_list_new">		<?php for ($x = 1; $x <= 4; $x++) {?>			<li>				<div class="img_colright">					<?php						the_post_thumbnail( 'thumbnail');					?>				</div>				<div class="hss_title_colright">				   <a title="" href="#"><?php the_title(); ?> 									   </a>				</div>			</li>		<?php } ?>		</ul></div>

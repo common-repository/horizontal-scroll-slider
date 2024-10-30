@@ -1,0 +1,125 @@
+#hss_box_container .hss_list_new {
+	/*
+    padding: 5px 0;
+	border-left: #78b43d solid 2px;
+    border-right: #78b43d solid 2px;
+    border-bottom: #78b43d solid 2px;
+	*/
+}
+#hss_box_container .hss_txt_head {
+    float: left;
+    width: auto
+}
+#hss_box_container .hss_nav_item {
+    margin-top: 10px
+}
+.hss_colright .hss_list_new,
+.hss_colright .hss_list_new li {
+    width: 100%;
+    float: left;
+    box-sizing: border-box
+}
+.hss_colright .hss_list_new {
+    padding: 5px 10px 0
+}
+.hss_colright .hss_list_new li {
+    background: url(../images/3_3.gif) 1px 7px no-repeat;
+    line-height: 16px;
+    list-style: none;
+    margin-bottom: 4px;
+    padding-left: 10px
+}
+.hss_colright .hss_list_new li a,
+.hss_title_colright a {
+    font: 13px arial;
+    color: #333;
+	box-shadow: 0 0px 0 0 currentColor !important;
+	text-decoration:none;
+}
+.hss_colright {
+    background: #fff;
+    padding-bottom: 15px;
+	
+}
+
+.hss_tem_box1 .hss_list_new li {
+    background: 0 0;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    padding-left: 0
+}
+.hss_tem_box1 .hss_list_new li.last {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0
+}
+.box_category {
+    margin-bottom: 15px
+}
+.hss_width_common {
+	width:100%;
+    float: left
+}
+.hss_round_colright {
+	background: url(../images/bg_topright.png) center top repeat-x
+}
+.hss_txt_head a {
+
+    color: #3f3f3f;
+    font: 700 14px/14px arial;
+    padding-right: 5px;
+    padding-left: 10px;
+	box-shadow: 0 0px 0 0 currentColor !important;
+	text-decoration:none;
+}
+.hss_txt_head {
+    background: url(../images/hotnewsep.png) 0 20px repeat-x;
+    height: 25px;
+    margin: 0 10px 0 0;
+    padding: 10px 0 0;
+    width: 96%
+}
+#hss_box_container .owl-carousel .owl-item .hss_item_slider {
+    margin: 0 auto;
+    width: 90%
+}
+.hss_item_slider .thumb_image img {
+    width: 100%;
+    float: left
+}
+.hss_img_colright {
+    float: left;
+    width: 48%;
+    margin-right: 10px
+}
+.hss_img_colright img {
+    float: left;
+    width: 100%
+}
+
+.hss_btn_control_ds {
+    background: url(../images/icon_navlq.png) top left no-repeat;
+    width: 21px;
+    height: 22px;
+    display: inline-block;
+    text-indent: -9999px;
+	box-shadow: 0 0px 0 0 currentColor !important;
+}
+
+.prev_slider_item{
+	background-position:1px -22px
+}
+
+.prev_slider_item:hover{
+	background-position:1px 0
+}
+
+.next_slider_item{
+	background-position:-24px -22px
+}
+.next_slider_item:hover{
+	background-position:-24px 0
+}
+.hss_right{float:right}
+.hss_nav_item{margin-right:15px}
